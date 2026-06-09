@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
 
 **Data Quality Framework Distribué sur le Dataset NYC Yellow Taxi**  
-*LIU — Master Big Data | 2026*
+* Master Big Data | 2026*
 
 </div>
 
